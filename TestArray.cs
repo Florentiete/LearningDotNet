@@ -18,9 +18,5 @@ class Geeks
         {
             Console.WriteLine(item);
         } 
-        // Step 3:Accessing Array Elements
-        //Console.WriteLine(stringarr[0]);
-       // Console.WriteLine(stringarr[1]);
-        //Console.WriteLine(stringarr[2]);
-    }
+       }
 }
